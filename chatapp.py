@@ -105,7 +105,7 @@ def main():
     st.markdown(
         """
         <div style="position: fixed; bottom: 0; left: 0; width: 100%; background-color: #0E1117; padding: 15px; text-align: center;">
-            © <a href="www.comerit.com" target="_blank">Anton Ansalmar</a> | 
+            © <a href="www.comerit.com" target="_blank">Comerit 2024 - Made by Anton Ansalmar</a> | 
         </div>
         """,
         unsafe_allow_html=True
