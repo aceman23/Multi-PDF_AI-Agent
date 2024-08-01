@@ -6,5 +6,6 @@ PyPDF2
 faiss-cpu
 langchain_google_genai
 langchain-community
+pip install --upgrade pip
 pip install --upgrade faiss
 
