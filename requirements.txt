@@ -1,4 +1,5 @@
 streamlit
+pip install --upgrade pip
 google-generativeai
 python-dotenv
 langchain
@@ -6,6 +7,4 @@ PyPDF2
 faiss-cpu
 langchain_google_genai
 langchain-community
-pip install --upgrade pip
 pip install --upgrade faiss
-
