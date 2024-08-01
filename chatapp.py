@@ -76,8 +76,8 @@ def user_input(user_question):
 
 
 def main():
-    st.set_page_config("Multi PDF Chatbot", page_icon = ":scroll:")
-    st.header("Multi-PDF's 📚 - Chat Agent 🤖 ")
+    st.set_page_config("Meet Alicia - Multi PDF AI Agent", page_icon = ":scroll:")
+    st.header("Multi-PDF's 📚 - Alicia AI by Comerit 🤖 ")
 
     user_question = st.text_input("Ask a Question from the PDF Files uploaded .. ✍️📝")
 
@@ -99,7 +99,7 @@ def main():
                 st.success("Done")
         
         st.write("---")
-        st.write("AI App")  # add this line to display the image
+        st.write("AI App Agent Created July 31st 2024")  # add this line to display the image
 
 
     st.markdown(
